@@ -1,0 +1,7 @@
+## project title: cse1106-intro-project
+## Technologies:
+- C
+- Github
+## How to run: - compile and run the C program   
+## what I learned:- how to write programs using github
+## Future Improvements: - to improve my program in C by using commands and using github
